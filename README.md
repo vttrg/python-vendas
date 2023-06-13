@@ -1,4 +1,4 @@
-# python-vendas
+# tratamento de dados
 
 Como iniciei os estudos a respeito de JavaScript recentemente, decidi praticar um pouco mais de Python, que por sinal aprendi na faculdade. Iniciei este projeto com a finalidade de treinar um pouco mais lógica de programação e algoritmo com um sistema que eu já conhecia.<br>
 O projeto é a respeito do <strong>Tratamento de Dados</strong>.
