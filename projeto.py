@@ -1,7 +1,3 @@
-#Lógica
-
-#Entendendo o desafio
-
 #Percorrendo os arquivos da pasta Vendas
 import os
 import pandas as pd
